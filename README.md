@@ -1,10 +1,10 @@
 <div align="center"> 
-<img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-36-234_512.gif" width="100px">
+<img src="https://cdn-icons-png.flaticon.com/512/3157/3157939.png" width="170px">
 <h1>Projeto Agenda</h1>
 </div>
 
 
-[![Status do Projeto](https://img.shields.io/badge/Status-Concluido-brightgreen?color=red)](#)
+[![Status do Projeto](https://img.shields.io/badge/Status-Concluido-brightgreen?color=blue)](#)
 
 Seja bem-vindo à Documentação Técnica do Projeto Agenda! Aqui você terá acesso a informações detalhadas sobre o projeto, arquitetura, tecnologias utilizadas, explicações sobre o modelo de esquemas, os testes de rotas implementados, um breve resumo sobre a arquitetura MVC que sustenta o projeto e, por fim,instruções para clonar o repositório. Esperamos que esta documentação seja útil e facilite a compreensão de todos os aspectos essenciais para o desenvolvimento e manutenção deste sistema.
 
