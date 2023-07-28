@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Maria Joaquina Da Silva",
+    "telefone": "81 98887-9878",
+    "email": "mariaJoaquina@hotmail.com",
+    "whatsapp": false
+  },
+  {
+    "nome": "Rafaela Ferreira Da Silva",
+    "telefone": "81 98887-9878",
+    "email": "rafaelaferreira@hotmail.com",
+    "whatsapp": true
+  }
+]
